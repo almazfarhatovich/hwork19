@@ -11,12 +11,14 @@ public class Main {
         System.out.println(family1);
         family1.komUslug();
         System.out.println("\n");
+
         System.out.println(family2);
         family2.arendobsh();
         System.out.println("\n");
+
         System.out.println(family3);
         family3.arendaHotel();
-        System.out.println("\n");
+
     }
 }
 
